@@ -1,0 +1,1 @@
+#export ibus-daemon -drx
